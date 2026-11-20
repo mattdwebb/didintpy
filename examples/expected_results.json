@@ -1,0 +1,9 @@
+{
+  "package": "didintpy",
+  "estimate": 2.3947438216509154,
+  "native_se": null,
+  "jackknife_se": 0.5198426567087775,
+  "jackknife_p": 0.0007566442905645291,
+  "clusters": 12,
+  "jackknife_df": 11
+}

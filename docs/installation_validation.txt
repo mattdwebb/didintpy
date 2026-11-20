@@ -1,0 +1,13 @@
+Obtaining file:///<historical-local-path>/didintpy
+  Checking if build backend supports build_editable: started
+  Checking if build backend supports build_editable: finished with status 'done'
+  Preparing editable metadata (pyproject.toml): started
+  Preparing editable metadata (pyproject.toml): finished with status 'done'
+Building wheels for collected packages: didintpy
+  Building editable for didintpy (pyproject.toml): started
+  Building editable for didintpy (pyproject.toml): finished with status 'done'
+  Created wheel for didintpy: filename=didintpy-0.1.0-0.editable-py3-none-any.whl size=1232 sha256=9ea8a00c7841601a40a12eadcddfc0ea23930fd7f4464440107311851ded0572
+  Stored in directory: <historical-local-path>/552a0cae9d7c47270a5f4ef0e2a189d3bc66c5ac5e7e052d26
+Successfully built didintpy
+Installing collected packages: didintpy
+Successfully installed didintpy-0.1.0
